@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "debug": "3.1.0",
-    "dogapi": "github:hellodigit/node-dogapi#ef591d009e633c3bdae8d2d0c7d55cb2f93a6cea"
+    "dogapi": "github:hellodigit/node-dogapi#ac62ed503d8b757e062711055a4cda048d55d413"
   }
 }
